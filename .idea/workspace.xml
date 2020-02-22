@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1808f6f0-8e38-4162-8a52-fae50a006213" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -63,14 +61,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582398133695</updated>
-      <workItem from="1582398148877" duration="1217000" />
+      <workItem from="1582398148877" duration="2768000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Add travis config&quot;">
+      <created>1582400795719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582400795719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add travis config&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add travis config&quot;" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2" timestamp="1582400794678">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1582400794678" />
+    <state x="229" y="66" key="SettingsEditor" timestamp="1582400164578">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1582400164578" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1582400803251">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1582400803251" />
     <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1582398153168">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
