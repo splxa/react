@@ -7,3 +7,8 @@ node_js:
 branches:
   only:
     - master
+deploy:
+  provider: heroku
+  app: "react-splxa"
+  api_key:
+    secure: "8661669f-793f-48ee-8b02-baea115a7c28"

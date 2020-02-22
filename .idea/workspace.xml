@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1808f6f0-8e38-4162-8a52-fae50a006213" name="Default Changelist" comment="">
+    <list default="true" id="1808f6f0-8e38-4162-8a52-fae50a006213" name="Default Changelist" comment="fix version node">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582398133695</updated>
-      <workItem from="1582398148877" duration="2768000" />
+      <workItem from="1582398148877" duration="3786000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Add travis config&quot;">
       <created>1582400795719</created>
@@ -70,29 +70,48 @@
       <option name="project" value="LOCAL" />
       <updated>1582400795719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix version node">
+      <created>1582400987230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582400987230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Add travis config&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add travis config&quot;" />
+    <MESSAGE value="fix version node" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix version node" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2" timestamp="1582400794678">
+    <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2" timestamp="1582401304196">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1582400794678" />
+    <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1582401304196" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1582400164578">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="229" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1582400164578" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1582400803251">
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1582401329236">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1582400803251" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1582401329236" />
     <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1582398153168">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
