@@ -1,11 +1,8 @@
 # Factory line manager
-[![Travis][build-badge]][build]
+[![Build Status](https://travis-ci.com/splxa/react.svg?branch=master)](https://travis-ci.com/splxa/react)
 [![Coveralls][coveralls-badge]][coveralls]
 
 Awesome factory line manager!
-
-[build-badge]: https://img.shields.io/travis/splxa/react/master.png?style=flat-square
-[build]: https://travis-ci.org/splxa/react
 
 [coveralls-badge]: https://img.shields.io/coveralls/splxa/react/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/splxa/react
