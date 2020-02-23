@@ -13,8 +13,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test --env=jsdom --coverage --collectCoverageFrom=src/**/*js --collectCoverageFrom=!src/registerServiceWorker.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +29,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "codecov.io": "^0.1.6",
+    "coveralls": "^3.0.9"
   }
 }

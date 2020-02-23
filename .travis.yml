@@ -12,3 +12,6 @@ deploy:
   app: "react-splxa"
   api_key:
     secure: "8661669f-793f-48ee-8b02-baea115a7c28"
+after_success:
+  - cat ./coverage/lcov.info | ./node_modules/codecov.io/bin/codecov.io.js
+  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
