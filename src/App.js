@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import logo from './logo2.png';
 import './App.css';
 
 function App() {
@@ -12,12 +13,24 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          // href="https://reactjs.org"
+          href="http://splx.adr.com.ua"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          SPLX Learn
         </a>
+        <table border="1">
+          <tr>
+            <th>Имя</th>
+            <th>Фамилия</th>
+          </tr>
+          <tr>
+            <td>Анна</td>
+            <td>Левченко</td>
+          </tr>
+        </table>
+
       </header>
     </div>
   );

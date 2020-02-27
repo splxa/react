@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1808f6f0-8e38-4162-8a52-fae50a006213" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,10 @@
       <option name="presentableId" value="Default" />
       <updated>1582398133695</updated>
       <workItem from="1582398148877" duration="4449000" />
-      <workItem from="1582473187349" duration="2052000" />
+      <workItem from="1582473187349" duration="2475000" />
+      <workItem from="1582478513135" duration="1000" />
+      <workItem from="1582793957243" duration="700000" />
+      <workItem from="1582796910906" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Add travis config&quot;">
       <created>1582400795719</created>
@@ -123,10 +126,10 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1582402297720" />
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1582473205345">
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1582793960633">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1582473205345" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1582793960633" />
     <state x="385" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1582474060456">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
