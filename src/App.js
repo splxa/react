@@ -20,15 +20,19 @@ function App() {
         >
           SPLX Learn
         </a>
-        <table border="1">
+        <table>
+          <thead>
           <tr>
-            <th>Имя</th>
-            <th>Фамилия</th>
+            <td>First Name</td>
+            <td>Last Name</td>
           </tr>
+          </thead>
+          <tbody>
           <tr>
-            <td>Анна</td>
-            <td>Левченко</td>
+            <td>Anna</td>
+            <td>Levchenko</td>
           </tr>
+          </tbody>
         </table>
 
       </header>

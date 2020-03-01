@@ -15,6 +15,9 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="react.loc" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -66,6 +69,11 @@
       <workItem from="1582478513135" duration="1000" />
       <workItem from="1582793957243" duration="700000" />
       <workItem from="1582796910906" duration="873000" />
+      <workItem from="1582914285254" duration="90000" />
+      <workItem from="1582914558267" duration="69000" />
+      <workItem from="1582914727207" duration="2603000" />
+      <workItem from="1582919083429" duration="249000" />
+      <workItem from="1583083790904" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Add travis config&quot;">
       <created>1582400795719</created>
@@ -118,6 +126,22 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="277" y="23" width="812" height="639" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1582402291100" />
+    <state width="987" height="186" key="GridCell.Tab.0.bottom" timestamp="1583084291932">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="987" height="186" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1583084291932" />
+    <state width="987" height="186" key="GridCell.Tab.0.center" timestamp="1583084291929">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="987" height="186" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1583084291929" />
+    <state width="987" height="186" key="GridCell.Tab.0.left" timestamp="1583084291924">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="987" height="186" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1583084291924" />
+    <state width="987" height="186" key="GridCell.Tab.0.right" timestamp="1583084291930">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="987" height="186" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1583084291930" />
     <state x="229" y="66" key="SettingsEditor" timestamp="1582400164578">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
@@ -126,10 +150,11 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1582402297720" />
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1582793960633">
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1583083789990">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1582793960633" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1583083789990" />
+    <state x="328" y="152" key="com.intellij.ide.util.TipDialog/0.23.1440.810@0.23.1440.810" timestamp="1582914312953" />
     <state x="385" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1582474060456">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
